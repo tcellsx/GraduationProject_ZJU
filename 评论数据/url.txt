@@ -1,0 +1,15 @@
+唯品会：https://mapi.vip.com/vips-mobile/rest/content/reputation/queryBySpuId_for_pc?callback=getCommentDataCb&app_name=shop_pc&app_version=4.0&warehouse=VIP_SH&fdc_area_id=103103104&client=pc&mobile_platform=1&province_id=103103&api_key=70f71280d5d547b2a7bb370a529aeea1&user_id=518556099&mars_cid=1711539313961_b297c0b320a75cfd43f85bd97b36ab4d&wap_consumer=c&spuId=1111621993233883138&brandId=1710612760&page=+str(page)+&pageSize=10&functions=angle&timestamp=1711541362000&keyWordNlp=%E5%85%A8%E9%83%A8-%E6%8C%89%E9%BB%98%E8%AE%A4%E6%8E%92%E5%BA%8F&_=1711541337136
+
+京东：https://api.m.jd.com/?appid=item-v3&functionId=pc_club_productPageComments&client=pc&clientVersion=1.0.0&t=1709571830788&loginType=3&uuid=181111935.170957100638087579330.1709571006.1709571006.1709571006.1&productId=100066896214&score=0&sortType=6&page=' +str(n)+ '&pageSize=10&isShadowSku=0&fold=1&bbtf=&shield='
+
+
+淘宝：
+https://h5api.m.tmall.com/h5/mtop.alibaba.review.list.for.new.pc.detail/1.0/?jsv=2.7.2&appKey=12574478&t=1711607521653&sign=1c1c4b5d8ff85570393cf7b1e688e1bc&api=mtop.alibaba.review.list.for.new.pc.detail&v=1.0&isSec=0&ecode=0&timeout=10000&ttid=2022%40taobao_litepc_9.17.0&AntiFlood=true&AntiCreep=true&preventFallback=true&type=jsonp&dataType=jsonp&callback=mtopjsonp7&data=%7B%22itemId%22%3A%22738605376921%22%2C%22bizCode%22%3A%22ali.china.tmall%22%2C%22channel%22%3A%22pc_detail%22%2C%22pageSize%22%3A20%2C%22pageNum%22%' +str(n)+ 'A3%7D
+
+https://h5api.m.tmall.com/h5/mtop.alibaba.review.list.for.new.pc.detail/1.0/?jsv=2.7.2&appKey=12574478&t=1711607720793&sign=e8e637266bac8118df9644f2960ff35a&api=mtop.alibaba.review.list.for.new.pc.detail&v=1.0&isSec=0&ecode=0&timeout=10000&ttid=2022%40taobao_litepc_9.17.0&AntiFlood=true&AntiCreep=true&preventFallback=true&type=jsonp&dataType=jsonp&callback=mtopjsonp8&data=%7B%22itemId%22%3A%22738605376921%22%2C%22bizCode%22%3A%22ali.china.tmall%22%2C%22channel%22%3A%22pc_detail%22%2C%22pageSize%22%3A20%2C%22pageNum%22%3A2%7D
+
+苏宁易购：
+https://review.suning.com/ajax/cluster_review_lists/cluster-38346611-000000012426366980-0000000000-total-3-default-10-----reviewList.htm?callback=reviewList
+https://review.suning.com/ajax/cluster_review_lists/cluster-38346611-000000012426366980-0000000000-total-' +str(n)+ '-default-10-----reviewList.htm?callback=reviewList
+
+分词：https://blog.csdn.net/qq_44331100/article/details/109531971
